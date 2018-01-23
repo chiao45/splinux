@@ -16,7 +16,6 @@ RUN \
     libboost-all-dev \
     libeigen3-dev \
     atom \
-    texlive-full \
     doxygen \
     git \
     vim \
@@ -29,8 +28,6 @@ RUN \
     octave-symbolic \
     octave-parallel \
     octave-struct \
-    lyx \
-    lyx-common \
     libcgal-dev \
     libcgal-demo && \
   apt-get clean && \
