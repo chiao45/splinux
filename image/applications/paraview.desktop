@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ParaView
+Comment=Parallel visualization application
+Exec=/opt/paraviewopenfoam54/bin/paraview
+Icon=/opt/paraviewopenfoam54/share/icons/hicolor/96x96/apps/paraview.png
